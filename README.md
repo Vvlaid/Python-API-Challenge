@@ -1,6 +1,6 @@
 # Python-API-Challenge
 
-![image](https://github.com/Vvlaid/Python-API-Challenge/assets/166451251/2a851b2b-7edb-45d7-84d0-23f158874401)
+![image](https://github.com/Vvlaid/Python-API-Challenge/assets/166451251/5dc3f5fd-e386-4d82-8796-e74d7e4b7f4d)
 
 
 ### Instructions
