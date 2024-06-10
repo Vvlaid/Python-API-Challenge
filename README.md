@@ -1,6 +1,9 @@
 # Python-API-Challenge
 
-Instructions
+![image](https://github.com/Vvlaid/Python-API-Challenge/assets/166451251/2a851b2b-7edb-45d7-84d0-23f158874401)
+
+
+### Instructions
 This activity is broken down into two deliverables, WeatherPy and VacationPy.
 
 # Part 1: WeatherPy
